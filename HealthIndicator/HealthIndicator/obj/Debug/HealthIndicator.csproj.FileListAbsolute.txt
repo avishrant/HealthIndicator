@@ -1,0 +1,15 @@
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\obj\Debug\HealthIndicator.Views.BMIView.xaml.g.cs
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\HealthIndicator.dll
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\HealthIndicator.pdb
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\obj\Debug\HealthIndicator.dll
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\obj\Debug\HealthIndicator.pdb
+C:\Users\avish\OneDrive\Documents\Visual Studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\obj\Debug\HealthIndicator.csprojResolveAssemblyReference.cache
+C:\Users\avish\OneDrive\Documents\Visual Studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Mono.Android.dll
+C:\Users\avish\OneDrive\Documents\Visual Studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\Mono.Android.xml
+C:\Users\avish\OneDrive\Documents\Visual Studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\obj\Debug\HealthIndicator.dll.mdb
+C:\Users\avish\OneDrive\Documents\Visual Studio 2015\Projects\HealthIndicator\HealthIndicator\HealthIndicator\bin\Debug\HealthIndicator.dll.mdb
